@@ -1,5 +1,5 @@
 import { StyleSheet, Text, View } from 'react-native';
-import Signup from './components/riderSignUp.js';
+import Signup from './pages/riderSignUp';
 export default function App() {
   return (
     <View style={styles.container}>
